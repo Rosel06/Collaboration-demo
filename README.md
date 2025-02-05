@@ -10,6 +10,5 @@ My demonstration project of Git and GitHub collaboration features.
 ## Features
 - Basic HTML structure
 - CSS styling
-- JavaScript functionality
 
 Created by ARABEJO_RA - 3C
