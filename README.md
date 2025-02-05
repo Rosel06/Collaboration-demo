@@ -1,4 +1,4 @@
-# demo
+# MY MODULE ASS 1
 
 A demonstration project to showcase Git and GitHub collaboration features.
 
