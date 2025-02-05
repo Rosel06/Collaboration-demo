@@ -1,6 +1,6 @@
-# MY MODULE ASS 1
+# MODULE ASSESSMENT 1
 
-A demonstration project to showcase Git and GitHub collaboration features.
+My demonstration project of Git and GitHub collaboration features.
 
 ## Project Overview
 - Version control demonstration
